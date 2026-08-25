@@ -1,236 +1,384 @@
 <div align="center">
 
-# NAVANEETH DUBBAKA
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:60A5FA&height=190&section=header&text=NAVANEETH%20DUBBAKA&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Founder%20%C2%B7%20AI%20Engineer%20%C2%B7%20Builder&descAlignY=61&descSize=18&animation=twinkling" width="100%"/>
 
-### Founder · AI Engineer · Builder
+<a href="https://readme-typing-svg.demolab.com/">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=2563EB&center=true&vCenter=true&width=760&lines=Building+AI+systems+that+actually+ship.;Turning+business+problems+into+working+systems.;AI+%C2%B7+Automation+%C2%B7+Software+%C2%B7+Robotics;From+idea+%E2%86%92+system+%E2%86%92+real-world+impact." alt="Typing animation" />
+</a>
 
-**Building intelligent systems that turn ideas into real products.**
+<br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/navaneeth-dubbaka-77ab06297)
-[![Instagram](https://img.shields.io/badge/Instagram-111111?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/dubbaka_navaneeth)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:dubbakanavaneeth17@gmail.com)
+<a href="https://www.sterosoniclabs.tech/">
+<img src="https://img.shields.io/badge/Founder-Stero%20Sonic%20Labs-111827?style=for-the-badge&labelColor=111827&color=2563EB" />
+</a>
+<a href="https://linkedin.com/in/navaneeth-dubbaka-77ab06297">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:dubbakanavaneeth17@gmail.com">
+<img src="https://img.shields.io/badge/Email-Talk-111827?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 </div>
 
----
+<div align="center">
 
-## / ABOUT
+UNDERSTAND → BUILD → DEPLOY → IMPROVE
 
-I'm a founder and engineer interested in building **AI systems that actually work in the real world.**
+I build intelligent systems for real problems — not just demos.
 
-I run **[Stero Sonic Labs](https://www.sterosoniclabs.tech/)**, where I work with businesses to build AI-powered systems, automate workflows, and turn ideas into production software.
+</div>
 
-My work sits across:
+/ ABOUT
 
-```text
-AI
-│
-├── LLMs & AI Agents
-├── Automation & Integrations
-├── Computer Vision
-├── Backend Systems
-├── Cloud Infrastructure
-└── Edge AI / Intelligent Devices
-```
+I'm Navaneeth, a founder and engineer focused on turning ideas into systems that people can actually use.
 
-I've worked across early-stage startups, built systems for international clients, and shipped software across different industries.
+I run Stero Sonic Labs, where I work with businesses on AI, automation, integrations, and custom software.
 
----
+I've also worked across 5 startups, including founding-engineer roles, and worked with 6+ international clients across the US & UK.
 
-## / WHAT I BUILD
+My work has taken me from LLM applications and AI agents to computer vision on Raspberry Pi, production backends, AWS infrastructure, data pipelines, and now deeper into robotics and autonomous systems.
+
+I don't want to collect technologies.
+
+I want to understand how systems work — and build better ones.
+
+/ WHAT I BUILD
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### AI SYSTEMS
+AI SYSTEMS
 
-LLM applications  
-AI agents  
-RAG systems  
-Tool calling  
-Intelligent assistants  
-Model integrations
+LLM applications
+
+AI agents
+
+RAG pipelines
+
+Tool calling
+
+Intelligent assistants
+
+Model integration
+
+AI-powered business workflows
 
 </td>
+<td width="50%" valign="top">
 
-<td width="50%">
+AUTOMATION
 
-### AUTOMATION
+Workflow automation
 
-Workflow automation  
-Business process automation  
-API integrations  
-n8n systems  
-Data pipelines  
+Business process automation
+
+API integrations
+
+n8n systems
+
+Data pipelines
+
 Internal tools
+
+AI-assisted operations
 
 </td>
 </tr>
 
 <tr>
-<td>
+<td width="50%" valign="top">
 
-### COMPUTER VISION
+COMPUTER VISION
 
-YOLO  
-OpenCV  
-Object detection  
-Edge inference  
-Raspberry Pi  
+YOLO
+
+OpenCV
+
+Object detection
+
+Image analysis
+
+Edge inference
+
+Raspberry Pi
+
 Real-time vision systems
 
 </td>
+<td width="50%" valign="top">
 
-<td>
+SOFTWARE SYSTEMS
 
-### SOFTWARE SYSTEMS
+FastAPI
 
-FastAPI  
-Backend architecture  
-AWS infrastructure  
-PostgreSQL  
-Docker  
+Backend architecture
+
+PostgreSQL
+
+AWS
+
+Docker
+
 Production APIs
+
+Scalable data systems
 
 </td>
 </tr>
 </table>
 
----
-
-## / CURRENTLY BUILDING
-
-### `01` — AI × BUSINESS
-
-Building AI systems that solve **actual operational problems**, not just demos.
-
-> idea → architecture → build → deploy → improve
-
-### `02` — AI × ROBOTICS
-
-Going deeper into **robotics, autonomous systems and physical AI**.
-
-The long-term direction:
-
-> **perception → reasoning → action → interaction**
-
-### `03` — STERO SONIC LABS
-
-Building a company around practical AI implementation for businesses.
-
-**AI · Automation · Software · Intelligent Systems**
-
----
-
-## / EXPERIENCE
-
-| Role | What I worked on |
-|---|---|
-| **Founder — Stero Sonic Labs** | AI systems, automation, LLM applications & business solutions |
-| **Founding Engineer — Zurfex** | AI-powered platform, FastAPI, PostgreSQL & AWS |
-| **Founding Engineer — Amma** | AI product development, backend systems & infrastructure |
-| **Founding Engineer — Plureto** | Video/data automation & AI training pipelines |
-| **Core Engineer — Soverin Gaming** | AI-native gaming systems & LLM experimentation |
-| **Computer Vision Engineer — ZOVX Labs** | YOLO, OpenCV & Raspberry Pi edge AI |
-
----
-
-## / SELECTED WORK
-
-### AI & LLMs
-Building agents, RAG systems, tool-calling workflows and LLM-powered applications.
-
-### Computer Vision
-Built and deployed YOLO-based vision systems on **Raspberry Pi** for real-time applications.
-
-### Automation
-Designed systems for video processing, labeling, data movement and business workflows.
-
-### Backend & Infrastructure
-Built production APIs and systems using **FastAPI, PostgreSQL, Docker and AWS**.
-
----
-
-## / STACK
+/ BUILDING NOW
 
 <div align="center">
 
-### AI / ML
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv&theme=light" />
 
-### Backend / Infrastructure
+Direction
 
-<img src="https://skillicons.dev/icons?i=fastapi,flask,postgres,aws,docker,git,github&theme=light" />
+Focus
 
-### Edge / Hardware
+01
+
+AI × BUSINESS
+
+Practical AI systems that automate real operational work
+
+02
+
+AI × ROBOTICS
+
+Perception, reasoning, action & interaction
+
+03
+
+STERO SONIC LABS
+
+Building AI products and systems for businesses
+
+</div>
+
+The direction I'm going
+
+                 INTELLIGENCE
+                      │
+          ┌───────────┴───────────┐
+          ↓                       ↓
+       SOFTWARE                PHYSICAL
+          │                       │
+       AI / LLMs              ROBOTICS
+          │                       │
+          └───────────┬───────────┘
+                      ↓
+             INTELLIGENT SYSTEMS
+                      ↓
+                REAL WORLD
+
+/ EXPERIENCE
+
+<table>
+<tr>
+<th>Role</th>
+<th>Focus</th>
+</tr>
+
+<tr>
+<td><b>Founder — Stero Sonic Labs</b></td>
+<td>AI systems, automation, LLM applications & business solutions</td>
+</tr>
+
+<tr>
+<td><b>Founding Engineer — Zurfex</b></td>
+<td>AI-powered platform, FastAPI, PostgreSQL & AWS</td>
+</tr>
+
+<tr>
+<td><b>Founding Engineer — Amma</b></td>
+<td>AI product development, backend systems, AWS & model evaluation</td>
+</tr>
+
+<tr>
+<td><b>Founding Engineer — Plureto</b></td>
+<td>Video/data automation, labeling pipelines & Hugging Face datasets</td>
+</tr>
+
+<tr>
+<td><b>Core Engineer — Soverin Gaming</b></td>
+<td>AI-native gaming systems & LLM experimentation</td>
+</tr>
+
+<tr>
+<td><b>Computer Vision Engineer — ZOVX Labs</b></td>
+<td>YOLO, OpenCV, Raspberry Pi & real-time warehouse tracking</td>
+</tr>
+
+</table>
+
+/ PROOF OF BUILDING
+
+<div align="center">
+
+6+
+
+INTERNATIONAL CLIENTS
+
+     
+
+5
+
+STARTUPS
+
+     
+
+4
+
+PRODUCTION SYSTEMS
+
+</div>
+
+<br/>
+
+IDEA
+  │
+  ├── understand the problem
+  │
+  ├── design the system
+  │
+  ├── build the product
+  │
+  ├── deploy it
+  │
+  └── improve it
+       │
+       ▼
+     IMPACT
+
+/ SELECTED TECHNICAL WORK
+
+AI / LLM
+
+Building LLM-powered applications, agents, RAG systems, tool-calling workflows and intelligent assistants.
+
+COMPUTER VISION
+
+Built and deployed YOLO-based computer vision systems on Raspberry Pi for real-time edge applications.
+
+AUTOMATION
+
+Built automation pipelines for video processing, data labeling, data movement, business workflows and AI operations.
+
+BACKEND / INFRASTRUCTURE
+
+Built production systems using FastAPI, PostgreSQL, AWS and Docker, with an emphasis on reliability and practical deployment.
+
+/ STACK
+
+<div align="center">
+
+Languages & AI
+
+<img src="https://skillicons.dev/icons?i=python,c,pytorch,tensorflow&theme=light" />
+
+<br/><br/>
+
+Backend & Cloud
+
+<img src="https://skillicons.dev/icons?i=fastapi,flask,postgres,aws,azure,gcp,docker&theme=light" />
+
+<br/><br/>
+
+Data & Computer Vision
+
+<img src="https://skillicons.dev/icons?i=opencv,numpy,pandas,git,github&theme=light" />
+
+<br/><br/>
+
+Edge & Hardware
 
 <img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=light" />
 
 </div>
 
----
-
-## / GITHUB
+/ GITHUB
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=navaneethdubbaka&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="170"/>
+BUILD → EXPERIMENT → SHIP
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=navaneethdubbaka&layout=compact&hide_border=true&theme=transparent" height="170"/>
+A collection of AI systems, prototypes, experiments, automation and engineering work.
+
+<br/>
+
+<a href="https://github.com/navaneethdubbaka?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE%20MY%20REPOSITORIES-2563EB?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=navaneethdubbaka&bg_color=00000000&color=64748B&line=2563EB&point=60A5FA&area=true&hide_border=true" width="95%" alt="GitHub activity graph"/>
 
 </div>
 
----
+/ THE WAY I THINK
 
-## / THE WAY I THINK
+Understand the problem before building the solution.
 
-> **Understand → Build → Test → Deploy → Repeat**
+I'm less interested in adding another tool to a stack and more interested in understanding why the system should exist, how it should work, and whether it actually solves the problem.
 
-I'm less interested in collecting technologies and more interested in understanding **how systems actually work**.
+That's what keeps pulling me deeper into:
 
-That's what keeps pulling me from software → AI → robotics → intelligent machines.
+AI → intelligent systems → robotics → autonomous machines
 
----
+/ THE LONG GAME
 
-## / THE LONG GAME
+                  PERCEIVE
+                     │
+                     ▼
+                 UNDERSTAND
+                     │
+                     ▼
+                  REASON
+                     │
+                     ▼
+                    ACT
+                     │
+                     ▼
+                   LEARN
+                     │
+                     ▼
+             INTERACT WITH
+             THE REAL WORLD
 
-I want to build systems that can:
+The goal isn't just software that can talk.
 
-**PERCEIVE**
+It's practical intelligence that can understand, decide and act.
 
-↓
+/ A LITTLE FURTHER
 
-**UNDERSTAND**
+“My goal is simple. It is a complete understanding of the universe, why it is as it is and why it exists at all.”
 
-↓
-
-**REASON**
-
-↓
-
-**ACT**
-
-↓
-
-**LEARN**
-
-↓
-
-**INTERACT WITH THE REAL WORLD**
-
----
+That curiosity is probably the reason I keep moving from one field to another — software, AI, computer vision, robotics and whatever comes next.
 
 <div align="center">
 
-### Building at the intersection of
+AI × SYSTEMS × ROBOTICS
 
-**AI × SYSTEMS × ROBOTICS**
+Building things worth understanding.
 
-<br>
+<br/>
 
-If you're building something interesting,  
-**[let's talk](mailto:dubbakanavaneeth17@gmail.com).**
+<a href="https://www.sterosoniclabs.tech/">
+<img src="https://img.shields.io/badge/STERO%20SONIC%20LABS-Visit-111827?style=for-the-badge&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/navaneeth-dubbaka-77ab06297">
+<img src="https://img.shields.io/badge/LINKEDIN-Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:dubbakanavaneeth17@gmail.com">
+<img src="https://img.shields.io/badge/LET'S%20BUILD-Contact-111827?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<sub>Built with curiosity. Shipped with intent.</sub>
 
 </div>
