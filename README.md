@@ -345,31 +345,118 @@ Note: I intentionally removed the external GitHub activity graph that was return
 
 <div align="center">
 
-UNDERSTAND THE PROBLEM
+<table>
+<tr>
+<td align="center" width="18%">
 
-↓
+01
 
-BUILD THE SYSTEM
+UNDERSTAND
 
-↓
+<sub>Find the real problem.</sub>
 
-TEST IT IN REALITY
+</td>
 
-↓
+<td align="center" width="3%">
+<img src="https://img.shields.io/badge/%E2%80%BA-2563EB?style=flat-square&labelColor=2563EB&color=2563EB" width="22" alt="flow"/>
+</td>
+
+<td align="center" width="18%">
+
+02
+
+DESIGN
+
+<sub>Decide what should exist.</sub>
+
+</td>
+
+<td align="center" width="3%">
+<img src="https://img.shields.io/badge/%E2%80%BA-2563EB?style=flat-square&labelColor=2563EB&color=2563EB" width="22" alt="flow"/>
+</td>
+
+<td align="center" width="18%">
+
+03
+
+BUILD
+
+<sub>Turn the idea into a system.</sub>
+
+</td>
+
+<td align="center" width="3%">
+<img src="https://img.shields.io/badge/%E2%80%BA-2563EB?style=flat-square&labelColor=2563EB&color=2563EB" width="22" alt="flow"/>
+</td>
+
+<td align="center" width="18%">
+
+04
+
+TEST
+
+<sub>Put it into reality.</sub>
+
+</td>
+
+<td align="center" width="3%">
+<img src="https://img.shields.io/badge/%E2%80%BA-2563EB?style=flat-square&labelColor=2563EB&color=2563EB" width="22" alt="flow"/>
+</td>
+
+<td align="center" width="18%">
+
+05
 
 SHIP
 
-↓
+<sub>Measure. Learn. Improve.</sub>
 
-LEARN
+</td>
+</tr>
+</table>
+
+<br/>
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/PROBLEM-111827?style=for-the-badge" alt="Problem"/>
+<br/><br/>
+<sub>What actually needs solving?</sub>
+</td>
+
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/SYSTEM-1D4ED8?style=for-the-badge" alt="System"/>
+<br/><br/>
+<sub>What should we build?</sub>
+</td>
+
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/REALITY-2563EB?style=for-the-badge" alt="Reality"/>
+<br/><br/>
+<sub>Does it work outside the demo?</sub>
+</td>
+
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/IMPACT-0F172A?style=for-the-badge" alt="Impact"/>
+<br/><br/>
+<sub>Did it actually make things better?</sub>
+</td>
+</tr>
+</table>
 
 </div>
 
-I'm less interested in collecting another tool for a stack and more interested in understanding why the system should exist, how it should work, and whether it actually solves the problem.
+<br/>
 
-That's what keeps pulling me deeper into:
+<div align="center">
 
-AI → intelligent systems → robotics → autonomous machines
+<sub>
+I care less about collecting technologies and more about understanding
+<strong>why a system should exist, how it should work, and whether it actually solves the problem.</strong>
+</sub>
+
+</div>
 
 / THE LONG GAME
 
